@@ -1,4 +1,4 @@
-package com.example.SpringPersonController.CRUD2;
+package io.zipcoder.crudapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

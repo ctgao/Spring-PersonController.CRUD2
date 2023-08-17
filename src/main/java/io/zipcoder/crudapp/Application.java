@@ -1,4 +1,4 @@
-package com.example.SpringPersonController.CRUD2;
+package io.zipcoder.crudapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
